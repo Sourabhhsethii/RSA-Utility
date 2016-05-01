@@ -38,7 +38,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.s8.encrypt.utility.ModulusExponentClient</mainClass>
+                            <mainClass>com.s8.rsa.utility.ExecutionArgument</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
